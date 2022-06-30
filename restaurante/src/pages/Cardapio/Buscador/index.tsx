@@ -18,3 +18,5 @@ export default function Buscador({ busca, setBusca }: Props) {
     </div>
   );
 }
+
+git branch -M main
